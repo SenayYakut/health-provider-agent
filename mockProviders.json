@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Aylin Kaya",
+    "specialty": "Dermatology",
+    "insurance": "Blue Cross",
+    "language": "Turkish",
+    "location": { "city": "San Francisco", "state": "CA", "zip": "94103" }
+  },
+  {
+    "name": "Dr. John Smith",
+    "specialty": "Cardiology",
+    "insurance": "Aetna",
+    "language": "English",
+    "location": { "city": "San Francisco", "state": "CA", "zip": "94110" }
+  },
+  {
+    "name": "Dr. Maria Lopez",
+    "specialty": "Dermatology",
+    "insurance": "Blue Cross",
+    "language": "Spanish",
+    "location": { "city": "San Francisco", "state": "CA", "zip": "94103" }
+  }
+]

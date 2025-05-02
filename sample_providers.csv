@@ -1,0 +1,5 @@
+name,specialty,language,insurance,location,rating
+Dr. Alice Kim,Cardiologist,"English, Korean","Blue Shield, Aetna","San Francisco, CA",4.8
+Dr. Luis Garcia,Pediatrician,"Spanish, English","Kaiser, Anthem","San Jose, CA",4.7
+Dr. Maya Patel,Dermatologist,"English, Hindi","UnitedHealth, Blue Shield","Oakland, CA",4.9
+Dr. John Liu,Neurologist,"Mandarin, English","Cigna, Aetna","San Francisco, CA",4.6
